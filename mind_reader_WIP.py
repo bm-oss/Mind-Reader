@@ -24,7 +24,9 @@ memory = input("Memorise a Card from the given options and i will make it disapp
 random.shuffle(initialFour)
 oldThree = initialFour[0:3]
 newCard = random.sample(deck, 1)
-print(oldThree + newCard)
+newHand = oldThree + newCard
+random.shuffle(newHand)
+print(newHand)
 
 mindFreak = input("Did I manage to remove the card you were thinking of?(y or n): ")
 
