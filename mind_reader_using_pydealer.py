@@ -11,6 +11,7 @@ deck.shuffle()
 
 '''initial 4 cards'''
 dealt_cards = deck.deal(4)
+print(dealt_cards)
 memory = input("Memorise a Card from the given options and i will make it disappear!\nPress the enter key when you are ready! ")
 
 '''new hand with extra random card added'''
@@ -19,11 +20,13 @@ hand.add(deck.deal(1))
 hand.shuffle()
 
 
-print(dealt_cards)
+
+
+
+print(hand)
 
 mindFreak = input("Did I manage to remove the card you were thinking of?(y or n): ")
 
-print(hand)
 
 if mindFreak == "y":
   print("I am the best Mind-Reader!!!")
