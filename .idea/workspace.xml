@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85362ac6-18ab-4e22-9f21-33df470e1ae5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mind_reader_ascii_cards.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contributers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Contributers.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mind_reader_using_pydealer.py" beforeDir="false" afterPath="$PROJECT_DIR$/mind_reader_using_pydealer.py" afterDir="false" />
-    </list>
+    <list default="true" id="85362ac6-18ab-4e22-9f21-33df470e1ae5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
